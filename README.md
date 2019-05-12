@@ -2,25 +2,25 @@
 - Software
 - Hardware
 	
-## Application Architecure
+# Application Architecure
 - Front End (User interface)
-	-- Web
-	-- Windows
-	-- Mobile
-	-- Console (Command prompt)
+  - Web
+  - Windows
+  - Mobile
+  - Console (Command prompt)
 - Back End
 - Persistence
 
-## Technologies, Platforms and Programming Language
-### C# and .Net
-### Java
-### C/C++
-### Ruby
-### JavaScript
-### Python
-### PHP
-### Android
-### IOS
+# Technologies, Platforms and Programming Language
+- C# and .Net
+- Java
+- C/C++
+- Ruby
+- JavaScript
+- Python
+- PHP
+- Android
+- IOS
 
 ## IDE (Integrated Development Environment)
 ### Full
