@@ -1,4 +1,4 @@
-# Software Development (Quick Intro)
+# Software Development
 - Software
 - Hardware
 	
