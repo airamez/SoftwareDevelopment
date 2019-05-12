@@ -4,10 +4,10 @@
 	
 ## Application Architecure
 - Front End (User interface)
--- Web
--- Windows
--- Mobile
--- Console (Command prompt)
+	-- Web
+	-- Windows
+	-- Mobile
+	-- Console (Command prompt)
 - Back End
 - Persistence
 
