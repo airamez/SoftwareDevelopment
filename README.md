@@ -1,17 +1,15 @@
 # Software Development (Quick Intro)
-
-## Software
-	
-## Hardware
+- Software
+- Hardware
 	
 ## Application Architecure
-###Front End (User interface)
-#### Web
-#### Windows
-#### Mobile
-#### Console (Command prompt)
-### Back End
-### Persistence
+- Front End (User interface)
+-- Web
+-- Windows
+-- Mobile
+-- Console (Command prompt)
+- Back End
+- Persistence
 
 ## Technologies, Platforms and Programming Language
 ### C# and .Net
